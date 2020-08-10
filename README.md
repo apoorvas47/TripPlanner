@@ -11,7 +11,7 @@ iOS app for custom schedule creation for a trip based on open hours and relative
 
 ## Implemented Features
 
-<img src="FeatureImages/adddates1.png" width="75%"/>
-<img src="FeatureImages/searchforplaces2.png" width="75%"/>
-<img src="FeatureImages/orderplaces3.png" width="75%"/>
-<img src="FeatureImages/schedule4.png" width="75%"/>
+<img src="FeatureImages/adddates1.png" width="95%"/>
+<img src="FeatureImages/searchforplaces2.png" width="95%"/>
+<img src="FeatureImages/orderplaces3.png" width="95%"/>
+<img src="FeatureImages/schedule4.png" width="95%"/>
