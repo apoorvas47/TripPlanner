@@ -8,6 +8,7 @@ iOS app for custom schedule creation for a trip based on open hours and relative
 ## Getting Started
 
 *TODO: Add Instructions for GoogleMaps and GooglePlaces Pods use and set up*
+
 *TODO: Port application to Android*
 
 ## Implemented Features
